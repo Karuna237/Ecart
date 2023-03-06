@@ -1,0 +1,24 @@
+.Wrapper{
+    margin:auto;
+    background-color:whitesmoke;
+    width:90%;
+    display: flex;
+}
+.Wrapper1{
+    margin:auto;
+    background-color:wheat;
+    width:50%;
+    
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+.Wrapper2{
+    margin:20px;
+    text-align: center;
+    
+}

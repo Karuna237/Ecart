@@ -1,0 +1,40 @@
+h1{
+    margin: auto;
+    color:black
+    
+}
+.formm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+    margin: auto;
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:50%;
+}
+input{
+    background-color: aliceblue;
+    padding:20px;
+    margin: 10px;
+    align-items: center;
+}
+.name{
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.pass{
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    
+}
+.btn1{
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #01d28e;
+  border: 1px solid #01d28e;
+  color: #fff;
+  padding: 10px 20px;
+}
